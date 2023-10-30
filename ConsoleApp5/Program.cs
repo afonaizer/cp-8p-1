@@ -166,7 +166,7 @@ namespace ConsoleApp5
      //static void Main(string[] args)
         //{
 
-        домашнее задание
+        //домашнее задание
         //1.
         //Console.Write("Введите число a: ");
         //int a = int.Parse(Console.ReadLine());
